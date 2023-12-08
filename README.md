@@ -1,0 +1,1 @@
+# Eksterni_NameSpace_i_klase
